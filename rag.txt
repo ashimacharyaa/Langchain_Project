@@ -1,0 +1,15 @@
+How to Get a Full Scholarship in the USA
+Getting a fully funded scholarship for a master's degree in Computer Science or Artificial Intelligence in the USA is competitive, but it is possible with strong academic performance, research experience, and a well-prepared application.
+1. Maintain a Strong GPA
+A GPA of 3.70 is a good starting point. Try to maintain or improve it throughout your bachelor's degree. Universities consider academic performance, relevant coursework, research potential, and the overall strength of your application.
+2. Target a GRE Score of 330–335
+A GRE score of 330–335 can strengthen your application at universities that consider GRE scores. Focus particularly on Quantitative Reasoning because mathematics is important for AI and Computer Science. However, many universities have optional or no GRE requirements, and a high score does not guarantee funding.
+3. Build Research and Technical Experience
+Develop projects in machine learning, deep learning, natural language processing, or retrieval-augmented generation (RAG). Learn Python, PyTorch, and essential mathematics. If possible, collaborate with professors, contribute to research, and publish a research paper.
+4. Apply for Fully Funded Opportunities
+Explore universities offering graduate assistantships, research assistantships, teaching assistantships, and competitive scholarships. These opportunities may cover tuition and provide a monthly stipend. However, fully funded master's programs are less common than funded PhD programs.
+5. Prepare a Strong Application
+Prepare an effective Statement of Purpose (SOP), academic transcripts, a strong CV, recommendation letters, and English proficiency test scores if required. Explain your research interests, career goals, and why you deserve funding.
+6. Apply Strategically
+Apply to approximately 10–15 suitable universities, including ambitious and realistic options. Check each university's funding policies before applying.
+My recommendation: Prioritize your GPA, research experience, AI projects, and GRE preparation. Do not depend entirely on the GRE; a strong overall profile gives you a better chance of securing full funding.
